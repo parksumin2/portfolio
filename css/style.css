@@ -383,7 +383,10 @@
     }
     .s0>.section_home>h1 {
         font-size: 40px;
-    }   
+    }  
+    .s0>.section_home>img {
+        width: 100%;
+    } 
     
     /*********** s1 프로파일 **********/
     .s1 {
